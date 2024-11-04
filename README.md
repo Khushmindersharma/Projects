@@ -3,10 +3,14 @@
 Python Projects
 ###############
 
-Apple Iphone analysis.
+## Apple Iphone analysis.
 
-Netfix analysis.
+## Netfix analysis.
 
-Employer survey analysis.
+## Employer survey analysis.
 
-IPL Survey
+## IPL Survey
+
+## Employee Career Analysis
+
+## Business Case Study of Super-Store.
