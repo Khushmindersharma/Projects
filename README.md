@@ -15,4 +15,6 @@ Python Projects
 
 ## Business Case Study of Super-Store.
 
+## E-Commerce Supply Chain
+
 ## Customer Lifetime Value Analysis.
