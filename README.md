@@ -14,3 +14,5 @@ Python Projects
 ## Employee Career Analysis
 
 ## Business Case Study of Super-Store.
+
+## Customer Lifetime Value Analysis.
